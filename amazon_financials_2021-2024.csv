@@ -1,0 +1,24 @@
+Metric,2021,2022,2023,2024,Source
+Revenue (Net Sales),469822000,513983000,574785000,637959000,Income Statement (Yahoo Finance)
+Cost of Revenue,272344000,288831000,304739000,326288000,Income Statement (Yahoo Finance)
+Gross Profit,197478000,225152000,270046000,311671000,Income Statement (Yahoo Finance)
+Operating Income (EBIT),24879000,12248000,36852000,68593000,Income Statement (Yahoo Finance)
+Net Income,33364000,30425000,59248000,70623000,Income Statement (Yahoo Finance)
+Total Current Assets,161580000,146791000,172351000,190867000,Balance Sheet (Yahoo Finance)
+Total Current Liabilities,142266000,155393000,164917000,179431000,Balance Sheet (Yahoo Finance)
+Total Assets,420549000,462675000,527854000,624894000,Balance Sheet (Yahoo Finance)
+Total Liabilities,282304000,316632000,325979000,338924000,Balance Sheet (Yahoo Finance)
+Shareholders’ Equity,138245000,146043000,201875000,285970000,Balance Sheet (Yahoo Finance)
+Operating Cash Flow,46327000,84946000,115877000,121137000,Cash Flow Statement (Yahoo Finance)
+Investing Cash Flow,-58154000,-59344000,-83342000,-123569000,Cash Flow Statement (Yahoo Finance)
+Financing Cash Flow,6291000,-15879000,-11812000,-8662000,Cash Flow Statement (Yahoo Finance)
+Gross Profit Margin (%),42.03,43.81,47.00,48.85,Derived
+Operating Margin (%),5.30,2.38,6.41,10.76,Derived
+Net Profit Margin (%),7.10,5.92,10.31,11.07,Derived
+Revenue Growth (%),,9.40,11.83,10.99,Derived
+Current Ratio,1.14,0.94,1.04,1.06,Derived
+Debt-to-Equity,2.04,2.17,1.61,1.19,Derived
+Asset Turnover,1.12,1.11,1.09,1.02,Derived
+Return on Assets (ROA %),7.90,6.58,11.22,11.30,Derived
+Return on Equity (ROE %),24.10,20.84,29.35,24.69,Derived
+Return on Capital Employed (ROCE %),6.90,3.99,10.16,15.40,Derived
