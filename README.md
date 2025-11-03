@@ -106,7 +106,7 @@ amazon-financial-analysis-2021-2024/
 │
 ├── scripts/
 │ ├── calculate_ratios.ipynb
-│ ├── amazon_financials_data.py
+│ └── amazon_financials_data.py
 │
 ├── visuals/
 │ ├── revenue_trend.png
