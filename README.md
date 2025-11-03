@@ -96,8 +96,7 @@ Sources of Finance and Strategic Impact
 | British Business Bank Programmes | Govt-backed | Provide finance for expansion & innovation | Strengthens capital for logistics growth |
 
 📁 Repository Structure
-<details>
-<summary><b>Click to view full project folder hierarchy</b></summary>
+
 amazon-financial-analysis-2021-2024/
 │
 ├── data/
